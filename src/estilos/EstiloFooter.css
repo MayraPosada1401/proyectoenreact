@@ -1,0 +1,14 @@
+.copyright{
+    border: 3px black solid;
+    margin-top: -3px;
+}
+.textocopyright{
+    text-align: center;
+}
+.contenedor2-footer{
+    background-color: #CAC9CA;
+    color: #CAC9CA;
+    border: 3px black solid;
+    margin-top: -3px;
+    height: 50px;
+}

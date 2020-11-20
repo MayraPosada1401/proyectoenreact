@@ -1,0 +1,98 @@
+.primercontendor-nuestraempresa{
+    display: flex;
+}
+.contendedorimagen1-nuestraempresa{
+    border: 3px solid black;
+    margin-top: -3px;
+    width: 460px;
+    height: 470px;
+}
+.imagendenuestraempresa{
+    width: 360px;
+    height: 430px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.contenedortexto1-nuestraempresa{
+    border: 3px solid black;
+    margin-left: 4px;
+    margin-top: -3px;
+}
+.titulosecundario-nuestraempresa{
+    font-size: 16px;
+}
+.imagenlinea-nuestraempresa{
+    height: 8px;
+    width: 400px;
+}
+
+/*Segundapartenuestraempresa*/
+.segundocontenedor-nuestraempresa{
+    border: 3px solid black;
+    background:#80BDEC;
+    margin-top: -3px;
+}
+.parrafo-nuestraempresa{
+    padding-left: 100px;
+    padding-right: 100px;
+    color: white;
+    text-align: center;
+}
+.imagenlinea2-nuestraempresa{
+    height: 6px;
+    width: 400px;
+    text-align: center;
+    margin-left: 470px;
+}
+.titulo2-nuestraempresa{
+    text-align: center;
+    color: white;
+}
+
+/*TerceraparteNuestraEmpresa*/
+.tercercontenedor-nuestraempresa{
+    border: 3px black solid;
+    margin-top: -3px;
+}
+.titulo3-nuestraempresa{
+    text-align: center;
+}
+.fondotabla-nuestraempresa{
+    background-image: url("../images/rayas.jpg");
+    background-size: 800px, 600px;
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 400px;
+    margin-left: 250px;
+}
+.contendedorequipo-nuestraempresa{
+    display: inline-block;
+    border: 3px black solid;
+    margin-left: -3px;
+}
+.tituloherramientas-nuestraempresa{
+    font-size: 17px;
+}
+.imagenlineanegra-nuestraempresa{
+    height: 8px;
+    width: 400px;
+    text-align: center;
+    margin-left: 470px;
+}
+.contenedor1-equipo{
+    width: 217px;
+    height: 400px;
+}
+.contenedor2-equipo{
+    width: 110px;
+    height: 400px;
+}
+.contenedor3-equipo{
+    width: 170px;
+    height: 400px;
+}
+.contenedor4-equipo{
+    width: 313.5px;
+    height: 400px;
+}

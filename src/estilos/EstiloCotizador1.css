@@ -1,0 +1,31 @@
+.parrafo-cotizador1{
+    text-align: center;
+}
+.contenedordatos-cotizador1{
+    display: flex;  
+    margin: auto;
+}
+.titulodatos-cotizador1{
+    width: 280px;
+    text-align: left;
+}
+.bordeinput-cotizador1{
+    border: 3px black solid;
+}
+.titulovalortotal-cotizador1{
+    margin-left: -105px;
+}
+.titulovalortotalp-cotizador1{
+    padding-right: 88px;
+}
+.contenedormensaje-cotizador1{
+    margin: auto;
+}
+.botonenviar-cotizador1{
+    margin-left: 600px;
+    width: 150px;
+    height: 40px;
+    background: lightcoral;
+    border: #3D0501  solid 3px;
+    color: #3D0501 ;
+}

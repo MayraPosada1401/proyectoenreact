@@ -1,0 +1,112 @@
+.fondoprimeraparteheader{
+    background: #CAC9CA;
+}
+.tituloheader{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar1{
+    margin-top: -30px;
+}
+.botonopciones{
+    width: 40px;
+    height: 40px;
+    margin: 0px, 10px;
+    outline: none;
+    border: transparent;
+}
+.opcion1{
+    background-image: url("../images/flechaderecha.png");
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    margin-top: -6px;
+}
+.opcion2{
+    background-image: url("../images/flechaizquierda.png");
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    margin-left: -1100px;
+    margin-top: -6px;
+}
+.opcion3{
+    background-image: url("../images/x.png");
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    margin-left: -1100px;
+    margin-top: 6px;
+}
+.opcion4{
+    background-image: url("../images/home.png");
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    margin-left: -1100px;
+    margin-top: 6px;
+}
+.busqueda{
+    width: 1080px;
+    margin-left: -1100px;
+    margin-top: 30px;
+}
+.botonbuscar{
+    width: 40px;
+    height: 40px;
+    background-image: url("../images/lupa.png");
+    background-size: 38px 38px;
+    background-repeat: no-repeat;
+    margin-top: -70px;
+}
+
+/*Parte dos Header*/
+.contenedor2-header{
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+.divletrad{
+    width: 200px;
+    height: 200px; 
+    display: inline-block;
+    margin-top: -10px;
+}
+.contenedoresparte2{
+    margin-left: 420px;
+}
+.imagend{
+    width: 180px;
+    height: 180px;
+    margin-top: 10px;
+}
+.contendor1parte2{
+    margin-left: 6px;
+    display: inline-block;
+    width: 300px;
+    height: 200px; 
+    margin-top: 30px;
+}
+.titulocontenedor1parte2{
+    padding-top: 75px;
+    padding-left: 20px;
+    color: white;
+}
+
+/*Botones del menu y opciones*/
+.botonesdelmenu{
+    width: 250px;
+    height: 40px;
+    background: #CFBDCF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.botonesdelmenu:hover{
+    background: #FF9B00 ;
+}
+.botonesdelmenu:focus{
+    background: #FF9B00 ;
+}
+.contenedorprincipal3-header{
+    border: 3px solid black;
+}
